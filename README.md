@@ -2,7 +2,7 @@
 
 ## Publication Details
 - **Journal:** Materials Today: Proceedings — Elsevier (2023)  
-- **DOI:** https://doi.org/10.1016/j.matpr.2023.06.296  
+- **DOI:** (https://www.sciencedirect.com/science/article/abs/pii/S2214785323036854) 
 - **My Role:** Data Curation
 
 ## About this Research
@@ -13,7 +13,7 @@ polarisation, and electrochemical impedance spectroscopy.
 
 ## Read the Paper
 Access the full paper on ScienceDirect:  
-https://doi.org/10.1016/j.matpr.2023.06.296
+(https://www.sciencedirect.com/science/article/abs/pii/S2214785323036854)
 
 ## Authors
 M.K. Srinath · S. Shivaprakash · V. Kamal Tej · 
